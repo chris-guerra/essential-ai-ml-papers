@@ -4,7 +4,7 @@ This repository contains papers on Machine Learning and AI which developed impor
 
 - [Landmark Papers in AI and Machine Learning](#landmark-papers-in-ai-and-machine-learning)
   - [Key](#key)
-  - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation)
+  - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-(rag))
  
 
 #### Key
