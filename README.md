@@ -6,7 +6,6 @@ This repository contains papers on Machine Learning and AI which developed impor
   - [Key](#key)
   - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation)
  
-
 #### Key
 
 | Icon |                                                              |
@@ -16,100 +15,7 @@ This repository contains papers on Machine Learning and AI which developed impor
 | 📔    | Blog post or something other than a formal publication.      |
 | 🌐    | Website associated with the paper.                           |
 
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-
-
 #### Retrieval Augmented Generation
-
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
-| Icon |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 🔒    | Paper behind paywall. In some cases, I provide an alternative link to the paper *if* it comes directly from one of the authors. |
-| 🔑    | Freely available version of paywalled paper, directly from the author. |
-| 📔    | Blog post or something other than a formal publication.      |
-| 🌐    | Website associated with the paper.                           |
 
 - **Searching for Best Practices in Retrieval-Augmented Generation (2024):** 🔑[Paper](https://arxiv.org/pdf/2407.01219) [Github](https://github.com/FudanDNN-NLP/RAG?tab=readme-ov-file)
 - **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning (2024):** Incredible paper to increase performance of LLMs. 🔑[Paper](https://openreview.net/pdf?id=_3ELRdg2sgI) [Github](https://github.com/ezelikman/STaR)
