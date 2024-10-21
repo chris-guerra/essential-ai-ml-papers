@@ -14,8 +14,8 @@ RAG (Retrieval-Augmented Generation) is a method that combines information retri
 
 ![general rag](img/rag_practices_1.png)
 
-- [**Searching for Best Practices in Retrieval-Augmented Generation (2024):**](https://arxiv.org/pdf/2407.01219) [Github Code](https://github.com/FudanDNN-NLP/RAG?tab=readme-ov-file)
-- [**Assistants and Agents Video:**](https://vimeo.com/990334325/56b552bc7a) [Github Code](https://github.com/openai/build-hours/tree/main/2-assistants)
+- [**Searching for Best Practices in Retrieval-Augmented Generation (2024):**](https://arxiv.org/pdf/2407.01219) GitHub code [here](https://github.com/FudanDNN-NLP/RAG?tab=readme-ov-file)
+- [**Assistants and Agents Video:**](https://vimeo.com/990334325/56b552bc7a) GitHub code [here](https://github.com/openai/build-hours/tree/main/2-assistants)
 
 ### Evaluation
 
