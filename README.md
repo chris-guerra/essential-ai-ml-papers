@@ -1,4 +1,4 @@
-#Landmark Papers in AI and Machine Learning
+# Landmark Papers in AI and Machine Learning
 
 This repository contains papers on Machine Learning and AI which developed important techniques. It is not a exaustive guide, just a space where I share papers that I think are significant.
 
