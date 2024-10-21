@@ -4,7 +4,7 @@ This repository contains papers on Machine Learning and AI which developed impor
 
 - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation)
  
-#### Retrieval Augmented Generation
+## Retrieval Augmented Generation
 
 ##### General RAG
 
