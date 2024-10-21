@@ -3,12 +3,16 @@
 This repository contains papers on Machine Learning and AI which developed important techniques. It is not a exaustive guide, just a space where I share papers that I think are significant.
 
 - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation)
+ - [General RAG Papers](#general-rag-papers)
+ - [Summarization](#summarization)
  
 ## Retrieval Augmented Generation
 
 ### General RAG Papers
 
 RAG (Retrieval-Augmented Generation) is a method that combines information retrieval and text generation. It works by retrieving relevant documents or data from a knowledge source (like a database or the web) and then using a language model to generate a response or summary based on that retrieved information. This approach enhances the accuracy and relevance of generated text, making it especially useful for answering complex questions, summarizing documents, or providing context-aware responses.
+
+![alt text](http://url/to/img.png)
 
 - **Searching for Best Practices in Retrieval-Augmented Generation (2024):** [**[Paper]**](https://arxiv.org/pdf/2407.01219) [**[Github]**](https://github.com/FudanDNN-NLP/RAG?tab=readme-ov-file)
 
