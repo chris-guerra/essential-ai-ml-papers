@@ -3,8 +3,8 @@
 This repository contains papers on Machine Learning and AI which developed important techniques. It is not a exaustive guide, just a space where I share papers that I think are significant.
 
 - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation)
- - [General RAG Papers](#general-rag-papers)
- - [Summarization](#summarization)
+    - [General RAG Papers](#general-rag-papers)
+    - [Summarization](#summarization)
  
 ## Retrieval Augmented Generation
 
