@@ -30,19 +30,17 @@ RAG (Retrieval-Augmented Generation) is a method that combines information retri
 
 ### Summarization
 
-| Technique | Strategy |
-| :--: | :--: |
-| Recomp | Extractive & Abstractive |
-| BM25 | Extractive |
-| Contriever | Extractive |
-| LongLLMlingua | Abstractive |
-| SelectiveContext | Abstractive |
+| Technique | Strategy | Paper | Github |
+| :--: | :--: | :--: | :--: |
+| Recomp | Extractive & Abstractive | [**[Recomp]**](https://arxiv.org/abs/2310.04408) | [**[Code]**](https://github.com/carriex/recomp)
+| BM25 | Extractive | . | . |
+| Contriever | Extractive | . | . |
+| LongLLMlingua | Abstractive | . | . |
+| SelectiveContext | Abstractive | . | . |
 
 #### Recomp
 
 Recompt in RAG refers to "recomposition," a process where the AI model retrieves relevant information from external sources (like documents or databases) and then generates a coherent summary by recomposing the retrieved content. It helps create more accurate, context-aware responses by combining information retrieval with text generation, making it useful for tasks like summarizing long or complex texts.
-
-- **Recomp: Improving Retrieval-Augmented LMS With Compression and Selective Augmentation:** [**[Paper]**](https://arxiv.org/abs/2310.04408) [**[Github]**](https://github.com/carriex/recomp)
 
 ------
 Ordering still:
