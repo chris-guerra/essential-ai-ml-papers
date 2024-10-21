@@ -8,13 +8,14 @@ This repository contains papers on Machine Learning and AI which developed impor
  
 ## Retrieval Augmented Generation
 
-### General RAG Papers
+### General RAG Papers and Videos
 
 RAG (Retrieval-Augmented Generation) is a method that combines information retrieval and text generation. It works by retrieving relevant documents or data from a knowledge source (like a database or the web) and then using a language model to generate a response or summary based on that retrieved information. This approach enhances the accuracy and relevance of generated text, making it especially useful for answering complex questions, summarizing documents, or providing context-aware responses.
 
 ![general rag](img/rag_practices_1.png)
 
-- **Searching for Best Practices in Retrieval-Augmented Generation (2024):** [**[Paper]**](https://arxiv.org/pdf/2407.01219) [**[Github]**](https://github.com/FudanDNN-NLP/RAG?tab=readme-ov-file)
+- [**Searching for Best Practices in Retrieval-Augmented Generation (2024):**](https://arxiv.org/pdf/2407.01219) [**[Github]**](https://github.com/FudanDNN-NLP/RAG?tab=readme-ov-file)
+- [**Assistants and Agents Video:**](https://vimeo.com/990334325/56b552bc7a) [**[Github]**](https://github.com/openai/build-hours/tree/main/2-assistants)
 
 ### Evaluation
 
@@ -46,7 +47,7 @@ Recompt in RAG refers to "recomposition," a process where the AI model retrieves
 Ordering still:
 
 ##### RAG Improvements
-- STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning (2024): [**[Paper]**](https://openreview.net/pdf?id=_3ELRdg2sgI) [**[Github]**](https://github.com/ezelikman/STaR)
+- [**[STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning (2024):]**](https://openreview.net/pdf?id=_3ELRdg2sgI) [**[Github]**](https://github.com/ezelikman/STaR)
 
 #### Information Retrieval
 
